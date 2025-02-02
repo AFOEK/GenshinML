@@ -1,0 +1,93 @@
+,name,vision,weapon,rarity,weapon_type
+0,Albedo,Geo,Sword,5,SWORD
+1,Alhaitham,Dendro,Sword,5,SWORD
+2,Aloy,Cryo,Bow,5,BOW
+3,Amber,Pyro,Bow,4,BOW
+4,Arataki Itto,Geo,Claymore,5,CLAYMORE
+5,Arlecchino,Pyro,Polearm,5,POLEARM
+6,Kamisato Ayaka,Cryo,Sword,5,SWORD
+7,Kamisato Ayato,Hydro,Sword,5,SWORD
+8,Baizhu,Dendro,Catalyst,5,CATALYST
+9,Barbara,Hydro,Catalyst,4,CATALYST
+10,Beidou,Electro,Claymore,4,CLAYMORE
+11,Bennett,Pyro,Sword,4,SWORD
+12,Candace,Hydro,Polearm,4,POLEARM
+13,Charlotte,Cryo,Catalyst,4,CATALYST
+14,Chevreuse,Pyro,Polearm,4,POLEARM
+15,Chiori,Geo,Sword,5,SWORD
+16,Chongyun,Cryo,Claymore,4,CLAYMORE
+17,Clorinde,Electro,Sword,5,SWORD
+18,Collei,Dendro,Bow,4,BOW
+19,Cyno,Electro,Polearm,5,POLEARM
+20,Dehya,Pyro,Claymore,5,CLAYMORE
+21,Diluc,Pyro,Claymore,5,CLAYMORE
+22,Diona,Cryo,Bow,4,BOW
+23,Dori,Electro,Claymore,4,CLAYMORE
+24,Emilie,Dendro,Polearm,5,POLEARM
+25,Eula,Cryo,Claymore,5,CLAYMORE
+26,Faruzan,Anemo,Bow,4,BOW
+27,Fischl,Electro,Bow,4,BOW
+28,Freminet,Cryo,Claymore,4,CLAYMORE
+29,Furina,Hydro,Sword,5,SWORD
+30,Gaming,Pyro,Claymore,4,CLAYMORE
+31,Ganyu,Cryo,Bow,5,BOW
+32,Gorou,Geo,Bow,4,BOW
+33,Hu Tao,Pyro,Polearm,5,POLEARM
+34,Jean,Anemo,Sword,5,SWORD
+35,Kachina,Geo,Polearm,4,POLEARM
+36,Kaeya,Cryo,Sword,4,SWORD
+37,Kaveh,Dendro,Claymore,4,CLAYMORE
+38,Kaedehara Kazuha,Anemo,Sword,5,SWORD
+39,Keqing,Electro,Sword,5,SWORD
+40,Kinich,Dendro,Claymore,5,CLAYMORE
+41,Kirara,Dendro,Sword,4,SWORD
+42,Klee,Pyro,Catalyst,5,CATALYST
+43,Sangonomiya Kokomi,Hydro,Catalyst,5,CATALYST
+44,Kuki Shinobu,Electro,Sword,4,SWORD
+45,Layla,Cryo,Sword,4,SWORD
+46,Lisa,Electro,Catalyst,4,CATALYST
+47,Lynette,Anemo,Sword,4,SWORD
+48,Lyney,Pyro,Bow,5,BOW
+49,Mika,Cryo,Polearm,4,POLEARM
+50,Mona,Hydro,Catalyst,5,CATALYST
+51,Mualani,Hydro,Catalyst,5,CATALYST
+52,Nahida,Dendro,Catalyst,5,CATALYST
+53,Navia,Geo,Claymore,5,CLAYMORE
+54,Neuvillette,Hydro,Catalyst,5,CATALYST
+55,Nilou,Hydro,Sword,5,SWORD
+56,Ningguang,Geo,Catalyst,4,CATALYST
+57,Noelle,Geo,Claymore,4,CLAYMORE
+58,Qiqi,Cryo,Sword,5,SWORD
+59,Raiden Shogun,Electro,Polearm,5,POLEARM
+60,Razor,Electro,Claymore,4,CLAYMORE
+61,Rosaria,Cryo,Polearm,4,POLEARM
+62,Kujou Sara,Electro,Bow,4,BOW
+63,Sayu,Anemo,Claymore,4,CLAYMORE
+64,Sethos,Electro,Bow,4,BOW
+65,Shenhe,Cryo,Polearm,5,POLEARM
+66,Shikanoin Heizou,Anemo,Catalyst,4,CATALYST
+67,Sigewinne,Hydro,Bow,5,BOW
+68,Sucrose,Anemo,Catalyst,4,CATALYST
+69,Tartaglia,Hydro,Bow,5,BOW
+70,Thoma,Pyro,Polearm,4,POLEARM
+71,Tighnari,Dendro,Bow,5,BOW
+72,Traveler,Anemo,Sword,5,SWORD
+73,Traveler,Dendro,Sword,5,SWORD
+74,Traveler,Electro,Sword,5,SWORD
+75,Traveler,Geo,Sword,5,SWORD
+76,Traveler,Hydro,Sword,5,SWORD
+77,Venti,Anemo,Bow,5,BOW
+78,Wanderer,Anemo,Catalyst,5,CATALYST
+79,Wriothesley,Cryo,Catalyst,5,CATALYST
+80,Xiangling,Pyro,Polearm,4,POLEARM
+81,Xianyun,Anemo,Catalyst,5,CATALYST
+82,Xiao,Anemo,Polearm,5,POLEARM
+83,Xingqiu,Hydro,Sword,4,SWORD
+84,Xinyan,Pyro,Claymore,4,CLAYMORE
+85,Yae Miko,Electro,Catalyst,5,CATALYST
+86,Yanfei,Pyro,Catalyst,4,CATALYST
+87,Yaoyao,Dendro,Polearm,4,POLEARM
+88,Yelan,Hydro,Bow,5,BOW
+89,Yoimiya,Pyro,Bow,5,BOW
+90,Yun Jin,Geo,Polearm,4,POLEARM
+91,Zhongli,Geo,Polearm,5,POLEARM
