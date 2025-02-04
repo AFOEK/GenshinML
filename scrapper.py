@@ -27,6 +27,6 @@ df_CHARA = df_CHARA.drop(df_CHARA.columns[[1,4,5,6,8,9,10,11,12,13,14,15,17,18,1
 df_ARTI = df_ARTI.drop(df_ARTI.columns[[1,4]],axis=1)
 df_WEAPON = df_WEAPON.drop(df_WEAPON.columns[[5,7,8,9]], axis=1)
 
-df_CHARA.to_csv(path_or_buf="GenshinCharatersClean.csv")
-df_ARTI.to_csv(path_or_buf="GenshinArtifactsClean.csv")
-df_WEAPON.to_csv(path_or_buf="GenshinWeaponsClean.csv")
+df_CHARA.to_csv(path_or_buf="CSV_Data/GenshinCharatersClean.csv",index=False)
+df_ARTI.to_csv(path_or_buf="CSV_Data/GenshinArtifactsClean.csv",index=False)
+df_WEAPON.to_csv(path_or_buf="CSV_Data/GenshinWeaponsClean.csv",index=False)
