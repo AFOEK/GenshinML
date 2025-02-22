@@ -1,1 +1,3 @@
 output.txt
+*.json
+.ipynb_checkpoints
